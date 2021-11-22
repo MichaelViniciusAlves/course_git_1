@@ -4,3 +4,6 @@ a
 funcionalidade
 x
 enciando uma funcionalidade
+Diff
+de
+arquivos
